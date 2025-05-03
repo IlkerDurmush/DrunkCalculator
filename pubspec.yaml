@@ -33,6 +33,12 @@ dependencies:
   math_expressions: ^2.2.0
   flutter_contacts: ^1.1.6
   permission_handler: ^11.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: false
+  image_path: "assets/calc.png"
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
